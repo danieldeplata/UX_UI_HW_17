@@ -1,10 +1,4 @@
-img {
-    width: 20%;
-    height: auto;
-}
-
-
-/* Header */
+/* NAVBAR */
 
 .inline-block {
     display: inline-block;
@@ -28,7 +22,7 @@ ul {
 }
 
 
-/* Hero */
+/* HEROIMG */
 
 .heroImg {
     height: 600px;
@@ -41,15 +35,15 @@ ul {
 }
 
 
-/* Footer */
+/* FOOTER */
 
 footer {
     background-color: #373738;
-    padding: 10px;
+    padding: 25px;
 }
 
 ul.footer {
     display: inline-block;
     vertical-align: top;
-    padding: 10px;
+    padding: 25px;
 }
