@@ -1,24 +1,38 @@
 /* NAVBAR */
 
+.navigation {
+    width: 100%;
+    background-color: #373738;
+}
+
 .inline-block {
     display: inline-block;
     vertical-align: top;
 }
 
 .logo {
-    width: 23%;
+    width: 21%;
+    height: auto;
     padding: 1%;
     text-align: center;
 }
 
 nav {
-    width: 73%;
+    width: 65%;
     padding: 1%;
 }
 
 ul {
     width: 50%;
     margin-left: auto;
+}
+
+.nav-img {
+    max-height: 50px;
+}
+
+.about-img {
+    height: 50vh;
 }
 
 
