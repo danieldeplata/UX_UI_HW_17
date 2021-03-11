@@ -1,5 +1,11 @@
 /* NAVBAR */
 
+.nav-items {
+    font-family: 'Heebo', sans-serif;
+    font-size: 20px;
+    color: antiquewhite;
+}
+
 .navigation {
     width: 100%;
     background-color: #373738;
@@ -23,7 +29,7 @@ nav {
 }
 
 ul {
-    width: 50%;
+    width: 25%;
     margin-left: auto;
 }
 
@@ -60,4 +66,17 @@ ul.footer {
     display: inline-block;
     vertical-align: top;
     padding: 25px;
+}
+
+
+/* Other */
+
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-family: 'Martel', serif;
+    font-size: large;
+    font-weight: 300;
 }
